@@ -103,7 +103,7 @@ function Home(){
                 </MemberProfile>
                 <MemberProfile>
                     <ProfileHeader>
-                        <MemberPic ></MemberPic>
+                        <MemberPic src={require('../photos/이태윤.png')}></MemberPic>
                     </ProfileHeader>
                     <ProfileFooter>
                         <MemberName>이태윤</MemberName>
